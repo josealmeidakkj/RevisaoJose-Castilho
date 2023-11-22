@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Marcas de Carros Brasileiros</title>
-    <style>
         body {
             font-family: Arial, sans-serif;
             margin: 20px;
@@ -24,47 +17,4 @@
         .video-container {
             margin-top: 20px;
         }
-    </style>
-</head>
-<body>
-
-    <h1>Marcas de Carros Brasileiros</h1>
-
-    <h2>Mais Vendidos</h2>
-    <p>Aqui estão algumas das marcas de carros mais vendidas no Brasil.</p>
-
-    <ul class="carro-container">
-        <li>Ford</li>
-        <li>Chevrolet</li>
-        <li>Fiat</li>
-        <li>Volkswagen</li>
-        <!-- Adicione mais marcas conforme necessário -->
-    </ul>
-
-    <h2>Mais Bonitos</h2>
-    <p>Confira alguns dos carros considerados os mais bonitos.</p>
-
-    <ul class="carro-container">
-        <li>Renault Kwid</li>
-        <li>Hyundai HB20</li>
-        <li>Chevrolet Onix</li>
-        <li>Ford Ka</li>
-        <!-- Adicione mais modelos conforme necessário -->
-    </ul>
-
-    <h2>Vídeos</h2>
-    <p>Assista a alguns vídeos interessantes sobre carros brasileiros.</p>
-
-    <div class="video-container">
-        <!-- Substitua 'URL_DO_VIDEO' pelo link do vídeo no YouTube ou em outra plataforma -->
-        <iframe width="560" height="315" src="URL_DO_VIDEO" frameborder="0" allowfullscreen></iframe>
-    </div>
-
-    <!-- Adicione mais vídeos conforme necessário -->
-
-    <footer>
-        <p>© 2023 Marcas de Carros Brasileiros</p>
-    </footer>
-
-</body>
-</html>
+    
